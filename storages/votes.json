@@ -1,0 +1,67 @@
+{
+    "1": {
+        "id": "1",
+        "63b9dee59b81c": {
+            "4": "jelenl\u00e9ti"
+        },
+        "63b9e1c9c4ac1": [
+            "online"
+        ],
+        "63bb172531e8a": {
+            "6": "jelenl\u00e9ti"
+        },
+        "63bb172dad3b4": [
+            "online"
+        ],
+        "63bb174972454": [
+            "jelenl\u00e9ti"
+        ]
+    },
+    "2": {
+        "id": "2",
+        "63b9dee59b81c": [
+            "Software Architect",
+            "Blockchain Engineer",
+            "Cloud Architect",
+            "Full-Stack Developer"
+        ],
+        "63b9e1c9c4ac1": [
+            "Data Scientist",
+            "Internet of Things (IoT) Solutions Architect",
+            "Software Architect"
+        ],
+        "63bb172531e8a": [
+            "Data Scientist",
+            "Big Data Engineer",
+            "Blockchain Engineer",
+            "Cloud Architect",
+            "Full-Stack Developer"
+        ],
+        "63bb172dad3b4": [
+            "Data Scientist",
+            "Big Data Engineer",
+            "Software Architect"
+        ],
+        "63bb174972454": [
+            "Full-Stack Developer"
+        ]
+    },
+    "3": {
+        "id": "3",
+        "63b9dee59b81c": [
+            "el\u00e9gedett vagyok"
+        ],
+        "63b9e1c9c4ac1": [
+            "el\u00e9gedett vagyok"
+        ],
+        "63bb172531e8a": [
+            "nem vagyok el\u00e9gedett"
+        ],
+        "63bb172dad3b4": [
+            "el\u00e9gedett vagyok"
+        ],
+        "63bb174972454": [
+            "el\u00e9gedett vagyok"
+        ]
+    }
+}

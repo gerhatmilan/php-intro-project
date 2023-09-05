@@ -1,0 +1,44 @@
+{
+    "63b874d677bc5": {
+        "username": "admin",
+        "email": "email@email.hu",
+        "password": "$2y$10$uwIb\/LcBmFYjRfFrvkxy9.F9EBLnYejBtxXWKV67cj7X2a1ejQkUS",
+        "isAdmin": true,
+        "id": "63b874d677bc5"
+    },
+    "63b9dee59b81c": {
+        "username": "user1",
+        "email": "user1@gmail.com",
+        "password": "$2y$10$LpYCWgqr36IBKgDteW7CXOs8uNjTFWSmu5IapE8FwjWJVl4lw6fhC",
+        "isAdmin": false,
+        "id": "63b9dee59b81c"
+    },
+    "63b9e1c9c4ac1": {
+        "username": "user2",
+        "email": "user2@gmail.com",
+        "password": "$2y$10$lOd8eu2xrZiNxxdOp9UA5OsWYAXT79JuLgvsVFY9c1G6.l56V36Oy",
+        "isAdmin": false,
+        "id": "63b9e1c9c4ac1"
+    },
+    "63bb172531e8a": {
+        "username": "user3",
+        "email": "user3@gmail.com",
+        "password": "$2y$10$K1orVckCFG31pNxAwmX8te9N.FwuCjmvRMudm\/mm\/3D9vwFbAccrq",
+        "isAdmin": false,
+        "id": "63bb172531e8a"
+    },
+    "63bb172dad3b4": {
+        "username": "user4",
+        "email": "user4@gmail.com",
+        "password": "$2y$10$NHSvsTUrAZ4ly.1tt9yZxeTSdBdrNeJ\/lt8Tf5MVOxcPV6pcQu3LC",
+        "isAdmin": false,
+        "id": "63bb172dad3b4"
+    },
+    "63bb174972454": {
+        "username": "user5",
+        "email": "user5@gmail.com",
+        "password": "$2y$10$nLrXlhuO5lqDz8ruXUSs5eOqckpD8OcHt2R93r9dtu1FooIIDIj76",
+        "isAdmin": false,
+        "id": "63bb174972454"
+    }
+}

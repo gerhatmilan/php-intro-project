@@ -1,0 +1,80 @@
+{
+    "1": {
+        "question": "A jelenl\u00e9ti, vagy az online oktat\u00e1st prefer\u00e1lja?",
+        "options": [
+            "jelenl\u00e9ti",
+            "online"
+        ],
+        "isMultiple": "false",
+        "createdAt": "2023-01-08",
+        "deadline": "2023-02-26",
+        "answers": {
+            "jelenl\u00e9ti": 3,
+            "online": 2
+        },
+        "voted": [
+            "63b9dee59b81c",
+            "63b9e1c9c4ac1",
+            "63bb172531e8a",
+            "63bb172dad3b4",
+            "63bb174972454"
+        ],
+        "id": 1
+    },
+    "2": {
+        "question": "Az informatika mely ter\u00fcleteit kedveli legink\u00e1bb az al\u00e1bbiak k\u00f6z\u00fcl?",
+        "options": [
+            "Data Scientist",
+            "Internet of Things (IoT) Solutions Architect",
+            "Big Data Engineer",
+            "Software Architect",
+            "Blockchain Engineer",
+            "DevOps Engineer",
+            "Cloud Architect",
+            "Full-Stack Developer"
+        ],
+        "isMultiple": "true",
+        "createdAt": "2023-01-08",
+        "deadline": "2023-02-26",
+        "answers": {
+            "Data Scientist": 3,
+            "Internet of Things (IoT) Solutions Architect": 1,
+            "Big Data Engineer": 2,
+            "Software Architect": 3,
+            "Blockchain Engineer": 2,
+            "DevOps Engineer": 0,
+            "Cloud Architect": 2,
+            "Full-Stack Developer": 3
+        },
+        "voted": [
+            "63b9dee59b81c",
+            "63b9e1c9c4ac1",
+            "63bb172531e8a",
+            "63bb172dad3b4",
+            "63bb174972454"
+        ],
+        "id": 2
+    },
+    "3": {
+        "question": "El\u00e9gedett-e az egyetemi teljes\u00edtm\u00e9ny\u00e9vel?",
+        "options": [
+            "el\u00e9gedett vagyok",
+            "nem vagyok el\u00e9gedett"
+        ],
+        "isMultiple": "false",
+        "createdAt": "2023-01-08",
+        "deadline": "2023-01-10",
+        "answers": {
+            "el\u00e9gedett vagyok": 4,
+            "nem vagyok el\u00e9gedett": 1
+        },
+        "voted": [
+            "63b9dee59b81c",
+            "63b9e1c9c4ac1",
+            "63bb172531e8a",
+            "63bb172dad3b4",
+            "63bb174972454"
+        ],
+        "id": 3
+    }
+}
